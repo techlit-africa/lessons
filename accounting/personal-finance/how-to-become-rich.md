@@ -1,4 +1,4 @@
-# Personal Finance: How to Become Rich
+# How to become rich
 
 
 

@@ -4,14 +4,10 @@
 
 ## Accounting
 
-* [Personal Finance: How to Become Rich](accounting/personal-finance-how-to-become-rich.md)
-* [Getting Started with Account](accounting/getting-started-with-account.md)
+* [Personal Finance](accounting/personal-finance/README.md)
+  * [How to become rich](accounting/personal-finance/how-to-become-rich.md)
 
 ## Software
 
-* [Untitled](software/untitled.md)
-
 ## Entrepreneurship
-
-* [Untitled](entrepreneurship/untitled.md)
 
