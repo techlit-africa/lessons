@@ -1,7 +1,5 @@
 # How to become rich
 
-
-
 ### Wealthy people **hide** some of their money. <a id="wealthy-people-hide-some-of-their-money"></a>
 
 They keep it in a place where even they themselves can't use it easily. This is their **savings account.**

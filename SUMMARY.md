@@ -11,3 +11,7 @@
 
 ## Entrepreneurship
 
+* [Startups](entrepreneurship/startups/README.md)
+  * [ycombinator](entrepreneurship/startups/ycombinator/README.md)
+    * [Startup school](entrepreneurship/startups/ycombinator/startup-school.md)
+
