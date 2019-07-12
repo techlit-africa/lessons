@@ -9,3 +9,5 @@ description: >-
 
 ![](.gitbook/assets/zawadi_prep_animation.gif)
 
+{% embed url="https://techlitafrica.org" %}
+
