@@ -7,5 +7,5 @@ description: >-
 
 # Welcome to TechLit Africa
 
-![](.gitbook/assets/this_is_zawadi.jpg)
+![](.gitbook/assets/zawadi_prep_animation.gif)
 

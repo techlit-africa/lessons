@@ -2,16 +2,14 @@
 
 * [Welcome to TechLit Africa](README.md)
 
-## Accounting
+## Shipping Used Computers
 
-* [Personal Finance](accounting/personal-finance/README.md)
-  * [How to become rich](accounting/personal-finance/how-to-become-rich.md)
-
-## Software
-
-## Entrepreneurship
-
-* [Startups](entrepreneurship/startups/README.md)
-  * [ycombinator](entrepreneurship/startups/ycombinator/README.md)
-    * [Startup school](entrepreneurship/startups/ycombinator/startup-school.md)
+* [Kenya](shipping-used-computers/kenya/README.md)
+  * [Import Declaration Forms \(IDF\)](shipping-used-computers/kenya/import-declaration-forms-idf.md)
+  * [Certificate of Conformity\(COC\) from PVoC agent](shipping-used-computers/kenya/untitled-3.md)
+  * [Master Bill of Lading](shipping-used-computers/kenya/untitled-2.md)
+  * [Packing List](shipping-used-computers/kenya/untitled-1.md)
+  * [Commercial Invoice](shipping-used-computers/kenya/untitled.md)
+  * [Exemption Letter\(if applicable\)](shipping-used-computers/kenya/exemption-letter-if-applicable.md)
+  * [Dispatch Documents in time](shipping-used-computers/kenya/dispatch-documents-in-time.md)
 
