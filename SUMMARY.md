@@ -12,4 +12,8 @@
   * [Commercial Invoice](shipping-used-computers/kenya/untitled.md)
   * [Exemption Letter\(if applicable\)](shipping-used-computers/kenya/exemption-letter-if-applicable.md)
   * [Dispatch Documents in time](shipping-used-computers/kenya/dispatch-documents-in-time.md)
+* [Cameroon](shipping-used-computers/cameroon.md)
+* [Ghana](shipping-used-computers/ghana.md)
+* [Nigeria](shipping-used-computers/nigeria.md)
+* [Zambia](shipping-used-computers/zambia.md)
 
