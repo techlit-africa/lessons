@@ -1,5 +1,11 @@
 # Master Bill of Lading
 
+```csharp
+// Overall cost at the end of this section
+Inspection Cost: $400
+Running tab: $400
+```
+
 When issuing the bill of lading, the shipping line should take care of the following guidelines: 
 
 Consignee. The consignee column on the BL should read _**"Name & Full address of actual receiver".**_
