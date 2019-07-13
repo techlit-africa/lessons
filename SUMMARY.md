@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to TechLit Africa](README.md)
+* [About](README.md)
 
 ## Shipping Used Computers
 
