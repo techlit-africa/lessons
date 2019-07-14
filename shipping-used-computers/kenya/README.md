@@ -3,7 +3,7 @@
 ## Two Options
 
 {% tabs %}
-{% tab title="Importing into Kenya: Handling Customs and Clearance" %}
+{% tab title="Importing yourself" %}
 ### **Importing into Kenya. Handling customs and clearance**
 
 1. [Request and import declaration for \(IDF\)](import-declaration-forms-idf.md)
